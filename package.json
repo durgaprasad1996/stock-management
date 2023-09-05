@@ -1,0 +1,26 @@
+{
+  "name": "rk-inventory",
+  "version": "1.0.0",
+  "description": "stock management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgaprasad1996/stock-management.git"
+  },
+  "author": "Durga Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durgaprasad1996/stock-management/issues"
+  },
+  "homepage": "https://github.com/durgaprasad1996/stock-management#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
